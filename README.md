@@ -1,2 +1,4 @@
 # spotify-project-01
-This is my First project as a beginner .
+i have aaded a clone of Spotify music 
+# coder name 
+Aaditya Upadhyay
